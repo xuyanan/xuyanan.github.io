@@ -18,5 +18,20 @@ var addressPoints = [
     "Los Angeles, CA",
     34.0543942,
     -118.2439408
+  ],
+  [
+    "Hangzhou, China",
+    30.28,
+    120.15
+  ],
+  [
+    "Washington D.C., USA",
+    38.9136,
+    -77.01322
+  ],
+    [
+    "Macao, China",
+    22.13,
+    113.33
   ]
 ];
